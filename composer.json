@@ -1,0 +1,18 @@
+{
+    "name": "songyang/qcloud-cmq",
+    "description": "tencent cmq",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhaosongyang",
+            "email": "18638727656junior@gmail.com"
+        }
+    ],
+    "autoload": {
+	"psr-4": {
+	    "Sonyang\\QcloudCmq\\": "src/"
+    }
+    },
+    "require": {}
+}
